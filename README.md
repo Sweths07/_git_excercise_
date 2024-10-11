@@ -1,2 +1,2 @@
 # _git_excercise_
-thos is our group project
+this is our group project
